@@ -1,6 +1,6 @@
 """
 Version: Python 3.5.4
-Author: Paarth Bhasin - PB
+Author: Paarth Bhasin - PB Cognizant
 Purpose: Build a list of projects which have been recently modified on an existing local SVN server, to later
 checkout those projects and deploy to runtime/production again.
 Date: 7th February, 2017
